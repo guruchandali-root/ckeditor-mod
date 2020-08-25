@@ -1,6 +1,6 @@
 ## This repository contains modifications to ckeditor to suit guruchandali's editing purposes
 
-#### Demo: 
+#### Demo: https://guruchandali-root.github.io/ckeditor-mod/
 
 ### Working
 
