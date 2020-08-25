@@ -2,6 +2,8 @@
 
 #### Demo: https://guruchandali-root.github.io/ckeditor-mod/
 
+![demo](flash.gif)
+
 ### Working
 
 Upload an image using CKEditor's inbuilt button and it will transparently host an image off-site and load it in the editor.
