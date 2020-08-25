@@ -20,3 +20,6 @@ The API key goes in config.js. Look at line 6-15.
 
 - Fork the repo
 - Send a PR
+- Be sure to modify index.html to have a working demo of your modification/usecase
+
+Once your PR has been merged, the demo webpage should automatically be updated with your code change.
